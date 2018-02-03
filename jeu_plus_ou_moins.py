@@ -1,3 +1,4 @@
+'''a game where you have to guess a number choosen by your computer'''
 import os
 from random import randrange
 a = randrange(200)
